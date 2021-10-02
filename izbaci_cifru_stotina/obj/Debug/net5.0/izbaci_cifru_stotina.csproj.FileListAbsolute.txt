@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\bin\Debug\net5.0\izbaci_cifru_stotina.exe
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\bin\Debug\net5.0\izbaci_cifru_stotina.deps.json
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\bin\Debug\net5.0\izbaci_cifru_stotina.runtimeconfig.json
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\bin\Debug\net5.0\izbaci_cifru_stotina.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\bin\Debug\net5.0\izbaci_cifru_stotina.dll
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\bin\Debug\net5.0\ref\izbaci_cifru_stotina.dll
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\bin\Debug\net5.0\izbaci_cifru_stotina.pdb
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.dll
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\ref\izbaci_cifru_stotina.dll
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.pdb
+C:\Users\Nikola\source\repos\izbaci_cifru_stotina\izbaci_cifru_stotina\obj\Debug\net5.0\izbaci_cifru_stotina.genruntimeconfig.cache

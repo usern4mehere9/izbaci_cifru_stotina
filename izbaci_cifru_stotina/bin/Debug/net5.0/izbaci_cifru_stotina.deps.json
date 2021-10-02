@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "izbaci_cifru_stotina/1.0.0": {
+        "runtime": {
+          "izbaci_cifru_stotina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "izbaci_cifru_stotina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
